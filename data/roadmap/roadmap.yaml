@@ -2,23 +2,96 @@
 categories: 
   - 
     name: "Extend monitoring location pages"
-    status: "in progress"
+    status: "In Progress"
     things: 
       - 
-        status: done
-        thing: "brush on hydrograph"
+        status: Done
+        thing: "Celsius and Fahrenheit Degrees on Temperature Scales"
       - 
-        status: on deck
-        thing: "upstream basin"
+        status: Done
+        thing: "Axis Scaling"
       - 
-        status: upcoming
-        thing: "daily value hydrograph"
+        status: Done
+        thing: "Multiple Time Series with the Same Parameter"
+      - 
+        status: Done
+        thing: "Toggling the Median"
+      - 
+        status: Done
+        thing: "Monitoring Location Cameras"
+      - 
+        status: Done
+        thing: "NLDI on the Cloud"        
+      - 
+        status: Done
+        thing: "Brush on Hydrograph"
+      - 
+        status: Done
+        thing: "Brush Handles"        
+      - 
+        status: Done
+        thing: "Repositories Page"  
+      - 
+        status: Done
+        thing: "Collapsible Legend on NLDI Maps"          
+      - 
+        status: Done
+        thing: "Save State of Hydrograph"    
+      - 
+        status: Done
+        thing: "Use NLDI to Show Upstream Basin"
+       - 
+        status: Done
+        thing: "Add User Parameters to Graph-images Service"       
+       - 
+        status: Done
+        thing: "Image Export"            
+       - 
+        status: Done
+        thing: "Parameter Period of Record"         
+       - 
+        status: Done
+        thing: "Networks Pages"           
+      - 
+        status: On Deck
+        thing: "Upstream basin"
+      - 
+        status: Upcoming
+        thing: "Daily Value Hydrograph"
   -
-    name: "Stakeholder outreach"
-    status: "in progress"
+    name: "Stakeholder Outreach"
+    status: "In Progress"
+       - 
+        status: In Progress
+        thing: "Water Use Listening Session"   
+       - 
+        status: In Progress
+        thing: "NWIS Annual Survey"  
+       - 
+        status: Done
+        thing: "NWISweb User Research (18F Phase I)"          
+       - 
+        status: In Progress
+        thing: "WDFN User Testing (18F Phase II)"                  
+  -
+    name: "Data Delivery Services"
+    status: "In Progress"
+       - 
+        status: Done
+        thing: "MVP of Daily Values Data Service"   
+       - 
+        status: In Progress
+        thing: "MVP of Discrete GroundWater Levels Data Service"   
+       - 
+        status: On Deck
+        thing: "MVP of Instantaneous Data Service"  
+       - 
+        status: Upcoming
+        thing: "Daily Values Data Service (all data)"  
+    
 reach_goals:
-  - Prototype alert service
-  - do the thing
+  - Prototype Alert Service
+  - Search and Filter Prototype (18F Phase II, deployed to demo space)
   - and the other thing
   - not because it is easy
   - but because it is hard
